@@ -2,11 +2,16 @@ Checklist
 
 1) Models for tiles (with rotation) - Lee Wan Teng
 2) 3rd Person Character (walk a certain distance) - Chua May Gee
-3) Environment
+3) Environment 
+- decorate the game environment
+
 4) Script
 5) BGM and sound effects - Eric
 6) Ui - time & number of item collected - Eric
 7) Start scene - Gong Jia Wei
 8) End Scene - Gong Jia Wei
 9) item (pick up) - Eric
+- add time (5-10s)
+- key to continue to next level
+
 10)teleportation (*** if possible)
