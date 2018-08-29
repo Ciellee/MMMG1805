@@ -1,7 +1,7 @@
 Checklist
 
-1) Models for tiles
-2) 3rd Person Character
+1) Models for tiles (with rotation) - Lee Wan Teng
+2) 3rd Person Character (walk a certain distance) - Chua May Gee
 3) Environment
 4) Script
 5) BGM and sound effects
