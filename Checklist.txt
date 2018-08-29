@@ -6,7 +6,7 @@ Checklist
 - decorate the game environment
 
 4) Script
-5) BGM and sound effects - Eric
+5) BGM and sound effects - Gong Jia Wei
 6) Ui - time & number of item collected - Eric
 7) Start scene - Gong Jia Wei
 8) End Scene - Gong Jia Wei
