@@ -305,6 +305,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\MainMenu.cs" />
+    <Compile Include="Assets\Script\Rotation.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\CameraLogic.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\Demo.cs" />
     <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\SimpleCharacterControl.cs" />
