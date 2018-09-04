@@ -19,17 +19,7 @@ public class CameraLogic : MonoBehaviour {
         }
 	}
 
-    private void SwitchTarget(int step)
-    {
-        if(m_targets.Count == 0) { return; }
-        m_currentIndex+=step;
-        if (m_currentIndex > m_targets.Count-1) { m_currentIndex = 0; }
-        if (m_currentIndex < 0) { m_currentIndex = m_targets.Count - 1; }
-        m_currentTarget = m_targets[m_currentIndex];
-    }
-
-    public void NextTarget() { SwitchTarget(1); }
-    public void PreviousTarget() { SwitchTarget(-1); }
+  
 
     private void Update () {
         if (m_targets.Count == 0) { return; }
