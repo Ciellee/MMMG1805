@@ -617,7 +617,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 60
+  m_Text: 20
 --- !u!222 &174914218
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -636,7 +636,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 151cac17839be1f479b63a8c9ba12577, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeLeft: 5
+  timeLeft: 20
   countdownText: {fileID: 174914217}
 --- !u!1001 &177137499
 Prefab:
@@ -948,7 +948,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timePick: {fileID: 1594995106}
-  bonusTime: {fileID: 0}
+  time: {fileID: 0}
+  bonus: 10
 --- !u!65 &439868751
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2184,7 +2185,7 @@ GameObject:
   - component: {fileID: 1860089115}
   m_Layer: 0
   m_Name: CubeKey
-  m_TagString: Untagged
+  m_TagString: Key
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
