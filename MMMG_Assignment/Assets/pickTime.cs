@@ -6,12 +6,13 @@ using UnityEngine.UI;
 
 public class pickTime : MonoBehaviour {
     public GameObject timePick;
-    public Text time;
     public int bonus = 10;
+    public Timer time;
     public void OnTriggerEnter()
     {
         timePick.SetActive(false);
-        time.text = ""+ bonus + int.Parse(time.text);
+        time.timeLeft += bonus;
+       // timetime.text = ""+ timeInt;
     }
 
 }

@@ -948,8 +948,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timePick: {fileID: 1594995106}
-  time: {fileID: 0}
   bonus: 10
+  time: {fileID: 174914219}
 --- !u!65 &439868751
 BoxCollider:
   m_ObjectHideFlags: 0
