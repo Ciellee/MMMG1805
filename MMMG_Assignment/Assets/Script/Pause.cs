@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Pause : MonoBehaviour {
 
-    public GameObject pauseButton, pausePanel, BTMain;
+    public GameObject pauseButton, pausePanel, BTMain, pauseRestart;
 
     public void Start()
     {
@@ -29,5 +29,10 @@ public class Pause : MonoBehaviour {
     public void BackToMain()
     {
         SceneManager.LoadScene("StartScene");
+    }
+
+    public void Restart()
+    {
+        SceneManager.LoadScene("SampleScene");
     }
 }
