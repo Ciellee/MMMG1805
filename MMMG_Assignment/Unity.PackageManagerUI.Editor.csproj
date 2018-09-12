@@ -380,6 +380,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Models\Key\readME keys.txt" />
+    <None Include="Assets\Sample- Low Poly Nature Assets\Documentation.txt" />
+    <None Include="Assets\Sample- Low Poly Nature Assets\Materials\_MaterialIndex.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
     <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />

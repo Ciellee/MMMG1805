@@ -9,6 +9,7 @@ public class pickKey : MonoBehaviour {
 	public void OnTriggerEnter()
     {
         keyPick.SetActive(false);
-        keyCount.text = ("Key:1");
+        keyCount.text = ("Pieces of Sun collect: 1");
+        Win.doorKey = true;
     }
 }
