@@ -744,11 +744,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Game Developer\n                            Lee Wan Teng\n                            Eric
-    wong sie sing\n                            MaggieChua\n                            Gong
-    Jia Wei\n\nImage/Sound source\n                            www.zapsplat.com\n\nSpecial
-    Thanks\n                            Dr. Kent\n                            Mr.
-    Jacob"
+  m_Text: "Game Developer\n                            Lee Wan Teng\n                            TP041246\n
+    \                           Eric wong sie sing\n                            TP045204\n
+    \                           Chua May Gee\n                            TP035405\n
+    \                           Gong Jia Wei\n                            TP040786\n\nImage/Sound
+    source\n                            www.zapsplat.com\n\nSpecial Thanks\n                            Dr.
+    Kent\n                            Mr. Jacob"
 --- !u!222 &1613933524
 CanvasRenderer:
   m_ObjectHideFlags: 0
