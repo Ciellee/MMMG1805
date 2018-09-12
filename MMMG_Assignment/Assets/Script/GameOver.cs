@@ -10,6 +10,16 @@ public class GameOver : MonoBehaviour {
         SceneManager.LoadScene("SampleScene");
     }
 
+    public void SecondLv()
+    {
+        SceneManager.LoadScene("SecondLevel");
+    }
+
+    public void ThirdLv()
+    {
+        SceneManager.LoadScene("ThirdLevel");
+    }
+
     public void BackToMain()
     {
         SceneManager.LoadScene("StartScene");
